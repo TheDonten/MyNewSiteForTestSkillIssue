@@ -1,7 +1,7 @@
 { 
   "User" : {
   "Name": {
-    "hasMany": "Comment"
+    "string" : [ "Loki", "Thor"]
     }
   }
 }
