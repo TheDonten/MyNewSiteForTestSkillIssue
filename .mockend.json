@@ -1,6 +1,6 @@
 { 
   "User" : {
   "Name": {
-    "string" : [ {"LAbzda"}, {"Kek"} ]
+    "string" : [ "LAbzda", "Kek" ]
   }
 }
