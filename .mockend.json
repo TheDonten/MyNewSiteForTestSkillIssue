@@ -1,7 +1,6 @@
 { 
   "User" : {
   "Name": {
-    "loremWords": {}
-          }
+    "string" : [ {"LAbzda"}, {"Kek"} ]
   }
 }
