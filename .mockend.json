@@ -2,7 +2,7 @@
   "User" : {
   "Name": {
     "loremWords": {"minLength": 3, "maxLength": 10 }
-    }
-  
+    },
+  "Followed" : { "boolean": {} }
   }
 }
