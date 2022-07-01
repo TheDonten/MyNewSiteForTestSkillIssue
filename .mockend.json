@@ -1,8 +1,6 @@
 {
   "name": {
-    "string": [
-      "Thor",
-      "Loki"
-    ]
+    "loremWord": {}
+     
   }
 }
