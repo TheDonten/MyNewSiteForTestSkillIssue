@@ -7,7 +7,7 @@
   "Status": { "loremWords": {"minLength": 5, "maxLength": 30 } },
     "userComments": {
       "loremParagraphs": { "minLength": 200, "maxLength": 500 }
-    }
+    },
    "Likes" : { "likes": { "int": { "min": 0, "max": 1000 } } }
   }
 }
