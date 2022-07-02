@@ -4,7 +4,7 @@
     "loremWords": {"minLength": 3, "maxLength": 10 }
     },
   "Followed" : { "boolean": {} },
-  "Status": { "loremWords": {"minLength": 5, "maxLength": 30 } },
+  "Status": { "loremWords": {"minLength": 5, "maxLength": 30 } }
   
 }
 
