@@ -5,4 +5,7 @@
     },
   "Followed" : { "boolean": {} }
   }
+  "Status": {
+    "loremWords": { "minLength": 5, "maxLength": 20 }
+  }
 }
