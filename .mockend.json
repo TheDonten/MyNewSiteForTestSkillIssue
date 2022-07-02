@@ -3,9 +3,7 @@
   "Name": {
     "loremWords": {"minLength": 3, "maxLength": 10 }
     },
-  "Followed" : { "boolean": {} }
-  },
-  "Status": {
-     "string": {} 
+  "Followed" : { "boolean": {} },
+  "Status": { "string": {} }
   }
 }
