@@ -5,7 +5,7 @@
     },
   "Followed" : { "boolean": {} }
   },
-  "Statusis": {
+  "Status": {
      "string": {} 
   }
 }
