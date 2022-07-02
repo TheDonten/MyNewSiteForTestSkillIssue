@@ -6,7 +6,7 @@
   "Followed" : { "boolean": {} },
   "Status": { "loremWords": {"minLength": 5, "maxLength": 30 } },
     "userComments": {
-      "hasMany": "Comment"
+      "loremParagraphs": { "minLength": 200, "maxLength": 500 }
     }
   }
 }
