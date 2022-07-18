@@ -1,0 +1,40 @@
+
+.my_profile{
+
+}
+
+
+
+.image {
+    grid-area: img;
+    display: grid;
+    justify-content: center;
+
+}
+.image > img {
+
+}
+.description{
+
+    grid-area: des;
+    padding: 10px;
+    display: grid;
+
+   justify-content: center;
+
+}
+
+.description_from {
+
+    color: gold;
+}
+
+
+.posts {
+    grid-area:posts;
+    display: grid;
+    padding: 10px;
+    color: aqua;
+    justify-content: center;
+
+}

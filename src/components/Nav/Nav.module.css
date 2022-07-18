@@ -1,0 +1,26 @@
+
+
+
+.nav {
+    grid-area: Nav;
+    background-color: blueviolet;
+
+}
+
+
+.items {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.active {
+    color:gold;
+    text-decoration: none;
+}
+
+@media (max-width: 640px) {
+    .nav a{
+        font-size: 1.5rem;
+    }
+}

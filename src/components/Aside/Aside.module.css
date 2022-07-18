@@ -1,0 +1,12 @@
+
+.Aside{
+    grid-area: Aside;
+    background-color: green;
+}
+
+@media (max-width: 640px) {
+  .Aside{
+      display : none;
+  }
+
+}

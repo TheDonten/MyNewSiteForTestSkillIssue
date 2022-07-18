@@ -1,0 +1,55 @@
+
+.dialogs {
+    display: grid;
+
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto;
+
+
+    grid-template-areas: "d-i m" ;
+
+    text-decoration: none;
+
+}
+
+
+
+.messages {
+    grid-area: m;
+
+    padding: 10px;
+}
+
+
+
+
+.dialogs_items {
+
+    grid-area: d-i;
+    padding: 10px;
+
+
+}
+
+.active {
+    text-decoration: none;
+}
+
+.dialog.active {
+    color:gold;
+    text-decoration: none;
+}
+
+.dialog {
+    grid-area: d;
+
+
+}
+
+.text_area{
+    padding-top: 10px;
+}
+
+.buttons {
+
+}

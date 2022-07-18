@@ -1,0 +1,18 @@
+<div className = {Post_s.nickname}>
+                <a href='#dsd'> {post_items[0].name}</a>
+                <a href='#dsd'> {post_items[1].name}</a>
+                <a href='#dsd'> {post_items[2].name}</a>
+                <a href='#dsd'> {post_items[3].name}</a>
+            </div>
+            <div className={Post_s.text}>
+                {post_items[0].text}
+                {post_items[1].text}
+                {post_items[2].text}
+                {post_items[3].text}
+            </div>
+            <div className={Post_s.likes}>
+                {post_items[0].likes}
+                {post_items[1].likes}
+                {post_items[2].likes}
+                {post_items[3].likes}
+            </div>

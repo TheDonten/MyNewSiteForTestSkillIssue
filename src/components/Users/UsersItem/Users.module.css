@@ -1,0 +1,24 @@
+
+.s_users{
+
+}
+
+/*.s_users > img{*/
+/*    max-width:  200px;*/
+/*    max-height: 200px;*/
+/*    border: 1px solid black;*/
+/*}*/
+
+.image {
+
+}
+
+.image > img{
+    max-width:  200px;
+    max-height: 200px;
+    border: 1px solid black;
+}
+
+.selected {
+    font-weight: bold;
+}
