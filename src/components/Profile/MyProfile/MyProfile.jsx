@@ -7,7 +7,7 @@ const MyProfile = () => {
         <div className={Myprofile_s.my_profile}>
             <div className={Myprofile_s.image}>
                 <img src='https://cdn.akamai.steamstatic.com/steam/apps/1201240/capsule_616x353.jpg?t=1611719895'
-                     alt='Ya ebal'/>
+                     alt='Mda'/>
             </div>
             <div className={Myprofile_s.description}>
                 <div className={Myprofile_s.description_from}>
